@@ -17,6 +17,7 @@ plugins:
   - search
   - macros
   - redirects
+  - sitemap
 extra_javascript: []
 extra_css: []
 extra_templates: []
