@@ -17,7 +17,7 @@ plugins:
   - search
   - macros
   - redirects
-  
+
 extra_javascript: []
 extra_css: []
 extra_templates: []
@@ -28,6 +28,7 @@ nav:
   - Hardware:
       - openHMI: hardware/openhmi.md
       - Teledriver: hardware/teledriver.md
+      - ekoenergo: ekoenergo.md
   - Software:
       - Firmware: software/firmware.md
       - API: software/api.md
