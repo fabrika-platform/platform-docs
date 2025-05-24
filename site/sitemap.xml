@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://platform.fabrika.digital/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://platform.fabrika.digital/hardware/openhmi/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://platform.fabrika.digital/hardware/teledriver/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://platform.fabrika.digital/software/api/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://platform.fabrika.digital/software/firmware/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,30 @@
+site_name: fabrika-platform
+site_url: https://platform.fabrika.digital
+theme:
+  name: material
+  language: en
+  logo: images/fabrika logo_250_ehite
+  favicon: fabrika logo_favicon
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fabrika-platform
+      canonical_url: https://platform.fabrika.digital
+  generator: false
+plugins:
+  - search
+  - macros
+  - redirects
+extra_javascript: []
+extra_css: []
+extra_templates: []
+docs_dir: docs
+site_dir: site
+nav:
+  - Home: index.md
+  - Software:
+      - Firmware: software/firmware.md
+      - API: software/api.md
+  - Hardware:
+      - openHMI: hardware/openhmi.md
+      - Teledriver: hardware/teledriver.md
