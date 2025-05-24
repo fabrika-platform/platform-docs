@@ -22,9 +22,11 @@ docs_dir: docs
 site_dir: site
 nav:
   - Home: index.md
-  - Software:
-      - Firmware: software/firmware.md
-      - API: software/api.md
+  
   - Hardware:
       - openHMI: hardware/openhmi.md
       - Teledriver: hardware/teledriver.md
+  - Software:
+      - Firmware: software/firmware.md
+      - API: software/api.md
+
