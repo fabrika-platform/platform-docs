@@ -9,7 +9,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/fabrika-platform
-      canonical_url: https://platform.fabrika.digital
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@fabrika.digital
+  canonical_url: https://platform.fabrika.digital
   generator: false
 plugins:
   - search
@@ -22,7 +24,6 @@ docs_dir: docs
 site_dir: site
 nav:
   - Home: index.md
-  
   - Hardware:
       - openHMI: hardware/openhmi.md
       - Teledriver: hardware/teledriver.md
