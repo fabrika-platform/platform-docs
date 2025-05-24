@@ -3,7 +3,7 @@ site_url: https://platform.fabrika.digital
 theme:
   name: material
   language: en
-  logo: images/fabrika logo_250_ehite
+  logo: images/fabrika logo_250_white
   favicon: fabrika logo_favicon
 extra:
   social:
@@ -17,7 +17,7 @@ plugins:
   - search
   - macros
   - redirects
-  - sitemap
+  
 extra_javascript: []
 extra_css: []
 extra_templates: []
