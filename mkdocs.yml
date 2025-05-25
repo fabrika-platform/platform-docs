@@ -13,11 +13,12 @@ extra:
       link: mailto:info@fabrika.digital
   canonical_url: https://platform.fabrika.digital
   generator: false
+  pdf:
+      enabled: true
 plugins:
   - search
   - macros
   - redirects
-
 extra_javascript: []
 extra_css: []
 extra_templates: []
