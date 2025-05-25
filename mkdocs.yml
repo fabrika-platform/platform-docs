@@ -31,8 +31,6 @@ nav:
       - ekoenergo: ekoenergo.md
       - Controls: hardware/Controls/Controls.md
       - Displays: hardware/Displays/Displays.md
-      - Displays:
-        - stepHMI: hardware/Displays/stepHMI/stepHMI 32.5.md
       - Drives: hardware/Drives/Drives.md
   - Software:
       - Firmware: software/firmware.md
