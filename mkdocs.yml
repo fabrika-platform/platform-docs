@@ -15,6 +15,9 @@ extra:
   generator: false
   pdf:
       enabled: true
+  footer: |
+    © 2025 fabrika.digital s.r.o. - All rights reserved.
+  
 plugins:
   - search
   - macros
