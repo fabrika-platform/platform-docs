@@ -27,8 +27,6 @@ site_dir: site
 nav:
   - Home: index.md
   - Hardware:
-      - openHMI: hardware/openhmi.md
-      - Teledriver: hardware/teledriver.md
       - ekoenergo: ekoenergo.md
       - Controls: hardware/Controls/Controls.md
       - Displays: hardware/Displays/Displays.md
