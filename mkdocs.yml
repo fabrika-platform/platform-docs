@@ -34,6 +34,7 @@ nav:
       - Controls: hardware/Controls/Controls.md
       - Displays: 
           - Overview: hardware/Displays/Displays.md
+          - Displays: 
           - API: software/api.md
       - Drives: hardware/Drives/Drives.md
   - Software:
