@@ -27,11 +27,12 @@ site_dir: site
 nav:
   - Home: index.md
   - Hardware:
-      - ekoenergo: ekoenergo.md
       - Controls: hardware/Controls/Controls.md
+        - API: software/api.md
+        - ekoenergo: ekoenergo.md
       - Displays: hardware/Displays/Displays.md
       - Drives: hardware/Drives/Drives.md
   - Software:
       - Firmware: software/firmware.md
-      - API: software/api.md
+      
 
