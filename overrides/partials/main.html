@@ -1,0 +1,9 @@
+{% if page and not page.is_homepage %}
+  <div style="position: absolute; top: 1rem; right: 1rem; z-index: 999;">
+    <a href="{{ page.url | replace('.html', '.pdf') }}"
+       download
+       class="md-button md-button--primary">
+      📄 Stiahnuť PDF
+    </a>
+  </div>
+{% endif %}
