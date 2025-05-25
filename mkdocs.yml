@@ -5,6 +5,8 @@ theme:
   language: en
   logo: images/fabrika logo_250_white
   favicon: fabrika logo_favicon
+  features:
+    - navigation.footer  
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -33,11 +35,9 @@ nav:
       - ekoenergo: ekoenergo.md
       - Controls: hardware/Controls/Controls.md
       - Displays: 
-          - Overview: hardware/Displays/Displays.md
-          - Displays: 
-          - API: software/api.md
+          - Overview: hardware/Displays/Displays.md 
       - Drives: hardware/Drives/Drives.md
   - Software:
       - Firmware: software/firmware.md
-      
+      - API: software/api.md
 
