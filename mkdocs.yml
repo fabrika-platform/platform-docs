@@ -42,4 +42,5 @@ nav:
   - Software:
       - Firmware: software/firmware.md
       - API: software/api.md
+      - Visualization: software/visualization.md
 

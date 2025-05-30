@@ -1,9 +1,8 @@
-/* extra.css */
-
-.md-header {
-  background-color: #0088cc !important;
+:root {
+  --md-primary-fg-color: #0088cc;
+  --md-primary-bg-color: #0088cc;
 }
 
-.md-header__title {
-  color: white !important; 
+.md-header {
+  background-color: var(--md-primary-bg-color) !important;
 }
