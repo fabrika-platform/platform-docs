@@ -1,0 +1,9 @@
+/* extra.css */
+
+.md-header {
+  background-color: #0088cc !important;
+}
+
+.md-header__title {
+  color: white !important; 
+}
