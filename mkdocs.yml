@@ -14,6 +14,8 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:info@fabrika.digital
   canonical_url: https://platform.fabrika.digital
+  extra_css:
+  - docs/styles/extra.css  # cesta ku CSS (napr. docs/styles/extra.css)
   generator: false
   pdf:
       enabled: true
