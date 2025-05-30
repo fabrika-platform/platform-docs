@@ -1,17 +1,43 @@
-# Welcome to MkDocs
+# Vitajte na platform.fabrika.digital
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**platform.fabrika.digital** je oficiálna dokumentačná platforma spoločnosti [fabrika.digital s.r.o.](https://fabrika.digital) zameraná na:
 
-## Commands
+- 📟 vývoj priemyselného hardvéru a softvéru
+- 🧠 open-source projekty a komunitné nástroje
+- ⚙️ návody, API dokumentáciu a technické referencie
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 🚀 Začíname
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Táto platforma je rozdelená do niekoľkých hlavných sekcií:
+
+- [Hardware](hardware/Controls/Controls.md) – technické parametre, schémy zapojenia, konektory
+- [Displeje a HMI](hardware/Displays/Displays.md) – dokumentácia k produktom ako `openHMI`
+- [Software](software/index.md) – knižnice, firmvér a integrácie
+- [ekoenergo](ekoenergo.md) – open-source projekt solárneho regulátora
+- ... a ďalšie!
+
+---
+
+## 🛠 Prispievaj do dokumentácie
+
+Celá dokumentácia je otvorená – môžeš ju upraviť cez GitHub:
+
+👉 [GitHub Repozitár Dokumentácie](https://github.com/fabrika-platform/docs)
+
+Stačí spraviť *pull request* alebo nahlásiť chybu.
+
+---
+
+## 📬 Kontakt
+
+V prípade otázok alebo spolupráce nás kontaktujte na:
+
+- 📧 info@fabrika.digital  
+- 🧑‍💻 GitHub: [fabrika-platform](https://github.com/fabrika-platform)
+
+---
+
+© 2025 **fabrika.digital s.r.o.**  
+Platforma pre technické inovácie a zdieľané know-how.
