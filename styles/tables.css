@@ -1,17 +1,29 @@
-.custom-table-wrap {
-  width: 100%;
-  overflow: hidden;
+/* Odstráni scrollwrap obmedzenie */
+.md-typeset__scrollwrap {
+  overflow-x: unset !important;
 }
 
-.custom-table {
+/* Zabezpečí, že tabuľky budú mať pevnú šírku obsahu */
+.md-typeset__table {
+  width: 100% !important;
+  display: block !important;
+  overflow-x: auto !important;
+}
+
+/* Vlastný štýl pre široké tabuľky */
+table.wide-table {
   width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
-  text-align: center;
 }
 
-.custom-table td {
+table.wide-table td {
+  width: 25%;
   padding: 1em;
+  text-align: center;
   color: white;
   font-weight: bold;
+  white-space: normal;
+  word-wrap: break-word;
+  box-sizing: border-box;
 }
